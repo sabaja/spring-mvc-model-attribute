@@ -15,6 +15,9 @@
 
 		<form:label path="id">Id</form:label>
 		<form:input path="id" />
+		
+		<form:label path="contactNumber">contactNumber</form:label>
+		<form:input path="contactNumber" />
 
 		<input type="submit" value="Submit" />
 	</form:form>
