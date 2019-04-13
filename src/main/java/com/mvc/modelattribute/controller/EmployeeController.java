@@ -15,7 +15,6 @@ import org.springframework.web.servlet.ModelAndView;
 import com.mvc.modelattribute.domain.Employee;
 
 @Controller
-@ControllerAdvice
 @RequestMapping("/spring-mvc-java")
 public class EmployeeController {
 
